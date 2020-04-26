@@ -25,7 +25,7 @@ A ressalva é que o storage local deve possuir disponível no mínimo o dobro do
 Agradecimentos ao sr. Rafael Oliveira (https://rafaelit.wordpress.com/2017/04/25/script-de-backup-a-quente-de-multiplas-vms-no-xen-server-7/) que disponibilizou o código original e permitiu que eu realizasse as alterações acima descritas.
 
 
-####################################################################################################
+###############################################################################################
 
 # Sady-XenBackup V.2.00 - April / 2020
 Backup script for XenServer 7.x
