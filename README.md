@@ -2,7 +2,7 @@
 Script de backup para XenServer 7.x 
 
 ****************************************************************************
-Para a versão PT-BR Xenserver 8.x existe um reporitorio do Ulisses Castello
+Para a versão PT-BR XenServer 8.x existe um repositorio do Ulisses Castello
 https://github.com/umcastello/umcastello/blob/main/backupvms.sh
 ****************************************************************************
 
