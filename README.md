@@ -1,6 +1,11 @@
 # Sady-XenBackup V.2.00 - Abril/2020
 Script de backup para XenServer 7.x 
 
+****************************************************************************
+Para a versão PT-BR Xenserver 8.x existe um reporitorio do Ulisses Castello
+https://github.com/umcastello/umcastello/blob/main/backupvms.sh
+****************************************************************************
+
 O script é executado automaticamente todos os dias no mesmo horário no host XenServer através do Crontab (espécie de agendador de tarefas do Linux).
 
 No script original todas as vms cadastradas participavam do processo de backup. A principal mudança foi permitir a pessoas, sem conhecimento de Linux, agendar as vms e respectivos dias da semana de backup destas, através de modificação de um simples arquivo txt no servidor de backup.
